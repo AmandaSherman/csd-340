@@ -1,0 +1,35 @@
+/* Amanda Sherman
+1-22-2023
+Bellevue University
+Module 4.2 Assignment */
+
+body {
+    font-family: Oswald, Verdana, Arial, sans-serif;
+}
+
+#container {
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+h1, h2, h3, h4 {
+    background-color:#3c275a;
+    color: #fff;
+    border: #D6A800;
+    padding: 10px;
+}
+
+a:link {
+    color: #3c275a;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: #D6A800;
+    color: #453674;
+}
+
+a:visited {
+    color: #3c275a;
+}
