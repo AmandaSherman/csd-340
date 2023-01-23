@@ -16,12 +16,12 @@ body {
 h1, h2, h3, h4 {
     background-color:#3c275a;
     color: #fff;
-    border: #D6A800;
+    border: 1px solid #D6A800;
     padding: 10px;
 }
 
-a:link {
-    color: #3c275a;
+a {
+    color: #453674;
     text-decoration: none;
 }
 
