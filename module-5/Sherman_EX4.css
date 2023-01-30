@@ -1,0 +1,41 @@
+h1, h3, figure {
+    text-align: center;
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+    font-weight: 400;
+}
+
+.image-gallery {
+    margin-top: 10%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.image-item {
+    border: solid rgba(185, 63, 8, 1);
+    border-radius: 15px;
+    padding: 5px;
+}
+
+img {
+    width: 400px;
+    height: 350px;
+}
+
+figcaption {
+    font-style: italic;
+    font-size: .75em;
+    color: rgb(185, 63, 8, 1);
+}
+
+html {
+    background-color: rgb(247, 112, 24, .2);
+}
+
+h1, h3 {
+    color: rgb(185, 63, 8, 1);
+}
+
+#return-to-landing {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
